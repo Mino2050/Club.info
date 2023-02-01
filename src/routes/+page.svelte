@@ -2,8 +2,8 @@
 <script>
 	import { Avatar } from '@skeletonlabs/skeleton'
 	import ZeMadCoder from '$lib/images/ZeMadCoder.jpg'
+	import Mino from '$lib/images/Mino.png'
 	import { toastStore } from '@skeletonlabs/skeleton'
-	import Mon image from 
 	function triggerToast() {
 		const t = {
 			message: '👋 Arrête de me cliquer dessus !',
